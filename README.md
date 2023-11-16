@@ -170,6 +170,10 @@ https://tryhackme.com/room/adventofcyber2023
 20% off personal annual subscriptions with code: AOC2023 \
 Deal ends: 7th December
 
+PWNX - Premium Labs \
+https://play.pwnx.io/#/tokens/buy
+50% off 1 year subscription to premium labs with code: BFRIDAY50 \
+Deal Ends: 8th December
 
 ## Practical Labs:
 
